@@ -11,4 +11,4 @@
 Клонируйте репозиторий:
 ```bash
 git clone https://github.com/tie12383-hash/bank_feature.git
-cd bank-operations-widget
+cd bank_feature
