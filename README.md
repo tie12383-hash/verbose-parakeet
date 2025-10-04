@@ -1,4 +1,4 @@
-# Bank Operations Widget
+# bank_feature
 
 Виджет для отображения банковских операций клиента.
 
@@ -8,7 +8,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```bash
-git clone https://github.com/tie12383-hash/bank-operations-widget.git
+git clone https://github.com/tie12383-hash/bank_feature.git
 cd bank-operations-widget
