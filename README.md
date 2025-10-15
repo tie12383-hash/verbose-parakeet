@@ -1,14 +1,30 @@
 # bank_feature
 
-Виджет для отображения банковских операций клиента.
+Widget for displaying client bank operations.
 
-## Цель проекта
+## Project Purpose
 
-Разработка бэкенд-компонента для виджета, отображающего последние успешные банковские операции клиента. Проект включает функции для маскировки данных, обработки операций и форматирования дат.
+Development of a backend component for a widget displaying recent successful bank operations. The project includes functions for data masking, operations processing, and date formatting.
 
-## Установка
+## Installation
 
-Клонируйте репозиторий:
+1. Clone the repository:
 ```bash
-git clone https://github.com/tie12383-hash/bank_feature.git
+git clone https://github.com/tie12383-hash/verbose-parakeet.git
 cd bank_feature
+```
+## Testing
+
+### Overview
+
+The project includes comprehensive tests for all main modules:
+- **masks.py**: Tests for card and account number masking functions
+- **widget.py**: Tests for bank operations widget functionality  
+- **processing.py**: Tests for bank operations processing and filtering
+
+### Running Tests
+
+#### Basic Test Execution
+```bash
+pytest
+```
